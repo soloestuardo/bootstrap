@@ -1,0 +1,37 @@
+.casa {
+    margin-right:10px;
+    height:44px;
+    width:46px;
+    background:url("../img/sprites.gif");
+    background-position: 0 0px;
+    float:left;
+}
+
+.casa:hover {
+    background-position: 0 44px;
+}
+
+.izq {
+    margin-right:10px;
+    height:44px;
+    width:43px;
+    background:url("../img/sprites.gif");
+    background-position: 87px 0;
+    float:left;
+}
+
+.izq:hover {
+    background-position: 87px 44px;
+}
+
+.der {
+    height:44px;
+    width:43px;
+    background:url("../img/sprites.gif");
+    background-position: 43px 0;
+    float:left;
+}
+
+.der:hover {
+    background-position: 43px 44px;
+}

@@ -1,0 +1,25 @@
+body
+{
+    background-color:gray;
+}
+
+h1,p
+{
+    color:red;
+}
+
+.colortext
+{
+    color:blue;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+div {
+    background-image: url("contact.jpg");
+    background-size: 100% 100%;
+    width:200px;
+    height:200px;
+}

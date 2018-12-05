@@ -1,0 +1,42 @@
+.card {
+    border:solid gray 1px;
+    border-radius:5px;
+    width:23%;
+    padding-bottom:1em;
+    background:#ffa600;
+    box-shadow:5px 5px 5px;
+}
+
+.card p, .card button {
+    margin-left:1em;
+    margin-right:1em;
+}
+
+.card h3 {
+    margin-left:0.8em;
+}
+
+.card button {
+    margin-top:1em;
+    box-shadow:3px 3px 1px #e68a00;
+}
+
+.card button:hover {
+    cursor:pointer;
+    background:#E8491D;
+}
+
+.marcos {
+    width:100%;
+    border-radius:5px 5px 0 0;
+}
+
+.boton {
+    height:38px;
+    background:#ff6600;
+    border:0;
+    border-radius:5px;
+    padding-left:20px;
+    padding-right:20px;
+    color:#FFF;
+}
